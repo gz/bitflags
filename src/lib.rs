@@ -11,6 +11,7 @@
 //! A typesafe bitmask flag generator.
 
 #![feature(no_std)]
+#![feature(core)]
 
 #![no_std]
 #[cfg(test)] #[macro_use] extern crate std;
